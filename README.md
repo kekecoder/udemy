@@ -14,3 +14,8 @@
 <p> 
     I learnt about Bootstrap, use it to create my secong project which is a landing page, the experience was amazing, it taught me on how to make use of others people work, modify it and create something better with it instead of writing everything from the ground up, it's been super fun so far.
 </p>
+
+## Learn About CSS GRID
+
+<p>So i learn how to use both CSS GRID and FLEXBOX to create a beautiful layout for my web project, created a project with it also, looking nice and crisp, now to the next one which is Javascript.
+</p>
