@@ -19,3 +19,7 @@
 
 <p>So i learn how to use both CSS GRID and FLEXBOX to create a beautiful layout for my web project, created a project with it also, looking nice and crisp, now to the next one which is Javascript.
 </p>
+
+## JavaScript Journey Has Begun
+
+<p>The introduction to JavaScript was fun, learn the basic of variable, performing basic mathematics calculation with JavaScript was fun, was abl to code a little basic calculator following the exercises and using my browser Developer Console to create it, also learnt about the differences between var, let and constant keyword. </p>
