@@ -23,3 +23,6 @@
 ## JavaScript Journey Has Begun
 
 <p>The introduction to JavaScript was fun, learn the basic of variable, performing basic mathematics calculation with JavaScript was fun, was abl to code a little basic calculator following the exercises and using my browser Developer Console to create it, also learnt about the differences between var, let and constant keyword. </p>
+<p>
+    Learned about how to create and store variables with <code>var</code>, <code>let</code> and <code>const</code> keyword, learned about functions, calling functions. Update my basic calculator with functions by adjusting it to make it look better.
+</p>
