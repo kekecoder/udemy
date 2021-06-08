@@ -26,3 +26,4 @@
 <p>
     Learned about how to create and store variables with <code>var</code>, <code>let</code> and <code>const</code> keyword, learned about functions, calling functions. Update my basic calculator with functions by adjusting it to make it look better.
 </p>
+<p>Learning about array, storing an item in an array, how to access multi dimensional array, it has been fun so far, am happy to learning more. </p>
