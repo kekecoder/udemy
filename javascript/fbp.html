@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook Demo Project</title>
+</head>
+
+<body>
+    <script>
+        var database = [
+            {
+                username: 'kekecoder',
+                password: 'jerusalem'
+            },
+            {
+                username: 'israel',
+                password: 'kingdom'
+            },
+            {
+                username: 'samuel',
+                password: 'king'
+            }
+        ];
+
+        var newsfeed = [
+            {
+                username: 'Bobby',
+                timeline: 'So tired from all the chores i have done today'
+            },
+
+            {
+                username: 'Sally',
+                timeline: 'Javascript is so cool'
+            }
+        ];
+
+        var userNamePrompt = prompt("What is your username? ");
+        var passowrdPrompt = prompt("Enter your password");
+
+        function isUserValid(username, password) {
+            for (var i = 0; i < database.length; i++) {
+                if (username === database[i].username && password === database[i].password) {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        function signIn(user, pass) {
+            if (isUserValid(user, pass)) {
+                console.log(newsfeed);
+            } else {
+                console.log('invalid credentials')
+            }
+        }
+
+        signIn(userNamePrompt, passowrdPrompt);
+
+    </script>
+</body>
+
+</html>
